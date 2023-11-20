@@ -1,2 +1,2 @@
 # AI
-MLP, LSTM Modeling
+MLP, LSTM
